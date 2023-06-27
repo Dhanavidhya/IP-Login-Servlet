@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Servlet</title>
+<style>
+body {
+	background-color: #f1f1f1;
+}
+
+form {
+	background-color: #fff;
+	max-width: 400px;
+	margin: 50px auto;
+	padding: 30px;
+	box-shadow: 0px 0px 10px 1px rgba(0, 0, 0, 0.2);
+}
+
+h1 {
+	text-align: center;
+	margin-top: 0;
+}
+
+#username,#email,#password,#confirm_password,#phone{
+	width: 95%;
+	padding: 10px;
+	border: 1px solid #ccc;
+	border-radius: 5px;
+	margin-top: 5px;
+	margin-bottom: 20px;
+	
+}
+
+input[type="submit"],input[type="reset"] {
+	background-color: #4CAF50;
+	color: #fff;
+	padding: 10px;
+	border: none;
+	border-radius: 5px;
+	width: 100%;
+	margin-top: 10px;
+	font-size: 16px;
+}
+label {
+	margin-top: 10px;
+}
+
+input[type="submit"]:hover ,input[type="reset"]:hover{
+	background-color: #3e8e41;
+}
+</style>
+</head>
+<body >
+<form method="get" action="Servlet">
+<h1>Enter your Details to Register</h1>
+<label>
+ Name : </label><input type="text" id="username" name=t1><br>
+ <label>Email ID : </label><input type="email" id="email" name=t2><br>
+ <label>Phone :</label> <input type="number" id="phone" name=t3><br>
+ <label>Password : </label><input type="password" id="password" name=t4><br>
+ <label>Confirm Password :</label> <input type="password" id="confirm_password" name=t5><br>
+ <input type="submit" value="Submit"><br>
+ <input type="reset" value="Reset">
+</form>
+</body></html>
