@@ -1,6 +1,6 @@
 # IP-Login-Servlet
 # Login.html 
-<img width="362" alt="9" src="https://github.com/Dhanavidhya/IP-Login-Servlet/assets/102801453/7d45cb64-da53-49fd-94b1-f1de38e93c9e">
+<img width="310" alt="ip 1" src="https://github.com/Dhanavidhya/IP-Login-Servlet/assets/102801453/5d002e5d-effa-486c-b5eb-215c05e93563">
 
 # Servelt.java
-<img width="405" alt="10" src="https://github.com/Dhanavidhya/IP-Login-Servlet/assets/102801453/26ae8b73-665d-4096-9e14-ce93348e1cbc">
+<img width="278" alt="ip 2" src="https://github.com/Dhanavidhya/IP-Login-Servlet/assets/102801453/2e8c007e-f1da-4eab-8e34-0fe11d909978">
